@@ -19,6 +19,26 @@ class Home extends Component{
                          <CardItem title="shams" text="App Developer"/>
                     </Cell>
                 </Grid>
+
+                <Grid>
+                    <Cell col={6}>
+                         <CardItem title="ashik" text="Software Engineer"/>
+                    </Cell>
+
+                    <Cell col={6}>
+                      <CardItem title="ashik" text="Software Engineer"/>
+                    </Cell>
+                </Grid>
+
+                <Grid>
+                    <Cell col={6}>
+                         <CardItem title="ashik" text="Software Engineer"/>
+                    </Cell>
+
+                    <Cell col={6}>
+                      <CardItem title="ashik" text="Software Engineer"/>
+                    </Cell>
+                </Grid>
             </div>
         );
     }

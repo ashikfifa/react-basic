@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
 
-        <div style={{height: '300px', position: 'relative'}}>
+        <div>
     <Layout style={{background: 'url(http://www.getmdl.io/assets/demos/transparent.jpg) center / cover'}}>
         <Header transparent title="Title" style={{color: 'white'}}>
             <Navigation>
